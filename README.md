@@ -19,4 +19,12 @@
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/yashdeep370/Leetcode_Solutions/tree/master/1903-largest-odd-number-in-string) |
+## Array
+|  |
+| ------- |
+| [0136-single-number](https://github.com/yashdeep370/Leetcode_Solutions/tree/master/0136-single-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/yashdeep370/Leetcode_Solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
