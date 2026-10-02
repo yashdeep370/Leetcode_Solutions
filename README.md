@@ -27,4 +27,5 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/yashdeep370/Leetcode_Solutions/tree/master/0136-single-number) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/yashdeep370/Leetcode_Solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->
